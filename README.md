@@ -19,4 +19,12 @@
 | ls -l | imprime los archivos en formato de lista | ls -l imprime la cantidad de archivos en formato lista |
 | kill | Cierra una aplicación o proceso activo. | kill 1128(el cual es un id de un proceso) |
 | top | Permite conocer información sobre el servidor en tiempo real | top |
-| mkdir | crea una carpeta nueva | mkdir carpeta1
+| mkdir | crea una carpeta nueva | mkdir carpeta1 |
+| rm | borra un archivo | rm documento5 |
+| rm -R | Borra una carpeta | rm -R carpeta |
+| clear | borrar todo lo que quede en la terminal | clear |
+| htop  | muestra los procesos de la máquina y sus estados | htop |
+| pstree | muestras los procesos en la terminal como si fueran ramificaciones | pstree |
+| sudo apt upgrade | actualiza el sistema o la aplicacion que se mencione  | sudo apt upgrade firefox |
+| su -  | accede al usuario del administrador del computador | se pide contraseña al ingresarlo |
+
