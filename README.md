@@ -27,4 +27,27 @@
 | pstree | muestras los procesos en la terminal como si fueran ramificaciones | pstree |
 | sudo apt upgrade | actualiza el sistema o la aplicacion que se mencione  | sudo apt upgrade firefox |
 | su -  | accede al usuario del administrador del computador | se pide contraseña al ingresarlo |
+| mount  | Se usa para el montaje de dispositivos | mount |
+| touch  | crea un archivo y actualiza marcas de tiempo | touch script1.sh |
+| df -h | muestra el espacio utilizado por el disco | df -h |
+| ps aux | muestra el proceso activo que lo acompaña | ps aux + proceso |
+| file | Muestra en pantalla el formato de un archivo | file picture.jpg |
+| chmod +x | Permisos de ejecución de un archivo | chmod +x |
+| gnome-disk-utility | Muestra la partición del disco | Muestra la partición del disco |
+| sudo reboot | reinicia el equipo | sudo reboot |
+| du | Muestra en pantalla el tamaño de un archivo | du imagen.jpg |
+| swapon |  Muestra la partición de SWAP y el tamaño. | swapon |
+| free -h | Muestra un desglose de la memoria y el swap. | free -h |
+| stat | Muestra las fechas de modificación de un archivo. | stat archiv6.txt |
+| run |Ejecuta un contenedor desde el ID de la imagen |docker run nginx |
+| cd  |  Lleva al directorio madre. | cd .. |
+|  ps -auclx | Imprime en pantalla el estado de los procesos. | ps -auclx |
+| chmod +r | Le da permisos de lectura a un archivo | chmod +r | 
+| whoami | Muestra en pantalla que usuario está siendo utilizado. |  whoami |
+| docker create |Con Docker, crea un contenedor pero no lo inicia |Docker create |
+
+
+
+
+
 
